@@ -1,7 +1,7 @@
 class MainController < ApplicationController
 
   def about
-    @created_by = "Kevin"
+    @created_by = "Vahan"
   end
 
 end
