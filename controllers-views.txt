@@ -1,6 +1,8 @@
 https://github.com/LinkedInLearning/ruby-on-rails-controllers-and-views-2498312
+git switch 01_01b
+rails lil:import
 
-You can also run rails lil:import anytime you want to get the database data in the same state as mine.
+From the command line, navigate into the project directory, and run bundle install to install the RubyGems. Next, add the database credentials to the database YML file in the config directory and run rails db:create. You can run rails lil:import anytime you want to get the database data in the same state as mine.
 
 USEFUL CONTROLLER FEATURES
 
